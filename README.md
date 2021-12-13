@@ -1,2 +1,1 @@
-# DATA_collecting
-collecting DATA on polygon network from testnet.
+just copy this code, replace with your values and run with python. ez pz.
