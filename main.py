@@ -6,7 +6,6 @@ donar_list = {
     "0x6F62xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxBD0668": "0x43xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxd5f",
     "0x1aA7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx751dF8": "0x83xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx0e9",
     "0x58E6xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxbe1F4b": "0x0axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx85a",
-
 }
 
 # recipient address
